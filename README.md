@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Henry4styles AKA henry
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Delphi/Pascal
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning HTML, CSS, JS, Java and C#
 - 💞️ I’m not specificly looking for a collaborate, but if someone think I can help, write me  
 - 📫 How to reach me: henrym.officialcontact@gmail.com 
 
